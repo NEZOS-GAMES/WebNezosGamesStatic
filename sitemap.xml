@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://nezosgames.com/games.html</loc>       
+        <loc>https://nezosgames.com/games</loc>       
         <lastmod>2024-03-01T06:21:58Z</lastmod>
         <priority>1</priority>
         <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>https://nezosgames.com/assets.html</loc>       
+        <loc>https://nezosgames.com/assets</loc>       
         <lastmod>2024-03-01T06:21:58Z</lastmod>
         <priority>1</priority>
         <changefreq>weekly</changefreq>
     </url>
     <url>
-        <loc>https://nezosgames.com/team.html</loc>       
+        <loc>https://nezosgames.com/team</loc>       
         <lastmod>2024-03-01T06:21:58Z</lastmod>
         <priority>1</priority>
         <changefreq>weekly</changefreq>
@@ -37,7 +37,7 @@
         <changefreq>monthly</changefreq>
     </url> 
     <url>
-        <loc>https://nezosgames.com/games/egos.html</loc>
+        <loc>https://nezosgames.com/games/egos</loc>
 		<image:image>
 			<image:loc>https://nezosgames.com/recursos/images/games/capturas/Egos/01.jpg</image:loc>
 			<image:title><![CDATA[EGOS en el motor unreal engine]]></image:title>
@@ -48,7 +48,7 @@
         <changefreq>Monthly</changefreq>
     </url>
     <url>
-        <loc>https://nezosgames.com/games/the-legacy-of-music.html</loc>
+        <loc>https://nezosgames.com/games/the-legacy-of-music</loc>
 		<image:image>
 			<image:loc>https://www.nezosgames.com/recursos/images/games/capturas/Tlom/01.png</image:loc>
 			<image:title><![CDATA[The Legacy of music en el motor unreal engine]]></image:title>
@@ -59,7 +59,7 @@
         <changefreq>Monthly</changefreq>
     </url>
     <url>
-        <loc>https://nezosgames.com/assets/easy-battle-pass.html</loc>
+        <loc>https://nezosgames.com/assets/easy-battle-pass</loc>
 		<image:image>
 			<image:loc>https://www.nezosgames.com/recursos/images/assets/cards/assets4.jpg</image:loc>
 			<image:title><![CDATA[Easy Battle Pass Unreal engine]]></image:title>
@@ -70,7 +70,7 @@
         <changefreq>Monthly</changefreq>
     </url>
     <url>
-        <loc>https://nezosgames.com/assets/easy-clicker-template.html</loc>
+        <loc>https://nezosgames.com/assets/easy-clicker-template</loc>
 		<image:image>
 			<image:loc>https://www.nezosgames.com/recursos/images/assets/cards/assets1.jpg</image:loc>
 			<image:title><![CDATA[Easy Clicker Template Unreal engine]]></image:title>
@@ -81,7 +81,7 @@
         <changefreq>Monthly</changefreq>
     </url>   
     <url>
-        <loc>https://nezosgames.com/assets/low-poly-sword-pack.html</loc>
+        <loc>https://nezosgames.com/assets/low-poly-sword-pack</loc>
 		<image:image>
 			<image:loc>https://www.nezosgames.com/recursos/images/assets/cards/assets3.jpg</image:loc>
 			<image:title><![CDATA[Low Poly Swords Pack Unreal engine]]></image:title>
@@ -92,7 +92,7 @@
         <changefreq>Monthly</changefreq>
     </url> 
     <url>
-        <loc>https://nezosgames.com/assets/easy-parallax-menu.html</loc>
+        <loc>https://nezosgames.com/assets/easy-parallax-menu</loc>
 		<image:image>
 			<image:loc>https://www.nezosgames.com/recursos/images/assets/cards/assets2.jpg</image:loc>
 			<image:title><![CDATA[Easy Parallax Menu Unreal engine]]></image:title>
